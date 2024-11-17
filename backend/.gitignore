@@ -1,0 +1,6 @@
+utils/*.txt
+utils/*.json
+__pycache__
+*.json
+config.py
+/venv
